@@ -55,7 +55,7 @@ function fetchPublicIP() {
 
 // Helper function to generate a random name
 function getRandomName() {
-    const names = ['Ali'];  // List of names
+    const names = ['Hema'];  // List of names
     return names[Math.floor(Math.random() * names.length)];
 }
 
